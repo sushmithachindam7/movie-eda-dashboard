@@ -8,4 +8,3 @@ A Streamlit web app for performing **Exploratory Data Analysis (EDA)** on movie 
 - **Prescriptive Analysis**: ROI analysis recommending best genre and decade for investment.
 
 
-## 📂 Project Structure
